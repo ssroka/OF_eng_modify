@@ -1,0 +1,7 @@
+/* Sources */
+derivedSources=sources/derived
+$(derivedSources)/my_meanVelocityForce/my_meanVelocityForce.C
+$(derivedSources)/my_meanVelocityForce/my_meanVelocityForceIO.C
+$(derivedSources)/my_meanVelocityForce/my_patchMeanVelocityForce/my_patchMeanVelocityForce.C
+
+LIB = $(FOAM_USER_LIBBIN)/libmy_fvOptions

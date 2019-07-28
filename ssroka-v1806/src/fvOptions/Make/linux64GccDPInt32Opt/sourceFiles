@@ -1,0 +1,6 @@
+SOURCE = \
+$(derivedSources)/my_meanVelocityForce/my_meanVelocityForce.C \
+$(derivedSources)/my_meanVelocityForce/my_meanVelocityForceIO.C \
+$(derivedSources)/my_meanVelocityForce/my_patchMeanVelocityForce/my_patchMeanVelocityForce.C \
+
+# sources
